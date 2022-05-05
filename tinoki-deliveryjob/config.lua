@@ -47,7 +47,7 @@ Config.Markers = {
 }
 
 Config.Payouts = {
-    ['small'] = math.random(1200, 5000), -- Je kan het verschillend plaatsen, of een vast bedrag : = 1000
+    ['small'] = math.random(1200, 5000), -- You can do random payout or 1 payment : = 1000
     ['medium'] = math.random(5000, 7500),
     ['big'] = math.random(7500, 10000)
 }
