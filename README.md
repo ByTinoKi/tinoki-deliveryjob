@@ -1,6 +1,9 @@
-# tinoki-deliveryjob
- Delivery job for esx by TinoKi
+Delivery job by TinoKi
 
-Preview: https://www.youtube.com/watch?v=TlEnJGYr4Yk
+Framework = ESX
 
-More info in my discord: https://discord.gg/fTC3Utg4vF
+Dependencies = pNotify
+
+Preview = https://www.youtube.com/watch?v=TlEnJGYr4Yk
+
+Discord = https://discord.gg/fTC3Utg4vF
